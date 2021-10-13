@@ -1,0 +1,33 @@
+div.dmslist {
+
+
+  max-width: 600px;
+  max-height: 20px;
+  display: table;
+  margin-left: 100px;
+  border:2px black;
+
+
+
+
+}
+
+div.row {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+div.friend {
+  font-size : x-large;
+}
+
+div.mess{
+
+  width: 300px;
+  max-height: 300px;
+  position: bottom;
+
+  background-color: rgb(199, 199, 199);
+  overflow: scroll;
+}
